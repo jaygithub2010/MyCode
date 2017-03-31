@@ -1,0 +1,5 @@
+﻿  ReverseLinkedList.cpp
+d:\visual studio projects\visual studio 2015\projects\newpracticec++\newpracticec++\reverselinkedlist.cpp(19): warning C4101: 'head': unreferenced local variable
+d:\visual studio projects\visual studio 2015\projects\newpracticec++\newpracticec++\reverselinkedlist.cpp(19): warning C4101: 'temp': unreferenced local variable
+  NewPracticeC++.vcxproj -> D:\Visual Studio Projects\Visual Studio 2015\Projects\NewPracticeC++\Debug\NewPracticeC++.exe
+  NewPracticeC++.vcxproj -> D:\Visual Studio Projects\Visual Studio 2015\Projects\NewPracticeC++\Debug\NewPracticeC++.pdb (Full PDB)
